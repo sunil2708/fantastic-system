@@ -1,0 +1,4 @@
+Instrustions for deploying this site.
+-------------------------------------------------------------------------
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
