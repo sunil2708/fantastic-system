@@ -4,3 +4,7 @@ Instrustions for deploying this site.
 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
 Fusce sit amet venenatis augue, volutpat ultrices metus. Vestibulum et pharetra elit. Duis aliquet ultrices finibus. Nulla quis dignissim odio. Vestibulum
+
+Installation on IIS 
+------------------------
+Content goes here
